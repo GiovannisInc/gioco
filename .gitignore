@@ -3,9 +3,9 @@
 ###
 [Aa]ssets/AssetStoreTools*
 [Bb]uild/
-[Ll]ibrary/
 [Ll]ocal[Cc]ache/
 [Oo]bj/
+obj/
 [Tt]emp/
 [Uu]nityGenerated/
 # file on crash reports
@@ -27,6 +27,7 @@ sysinfo.txt
 *.userprefs
 *.pidb
 .DS_Store
+.vs
 
 ###
 # OS generated
